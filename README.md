@@ -9,7 +9,7 @@ This project showcases my foundational front-end skills and serves as a starting
 
 ## 🔗 Live Demo
 
-[link])  
+[https://github.com/Anuvarshitha/portfolio-simple-website?tab=readme-ov-file#personal-portfolio-website]  
 
 
 ## 🚀 Features
