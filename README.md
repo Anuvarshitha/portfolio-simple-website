@@ -28,5 +28,4 @@ This project showcases my foundational front-end skills and serves as a starting
 
 ---Thank you for Visiting my portfolio website!
 
-## 📁 Folder Structure
 
