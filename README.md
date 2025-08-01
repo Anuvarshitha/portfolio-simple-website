@@ -1,4 +1,4 @@
-# 🌐 Personal Portfolio Website
+# Personal Portfolio Website
 
 This is a simple and clean **portfolio website** built using **HTML** and **basic CSS**. It features two core pages:
 
